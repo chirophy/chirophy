@@ -5,24 +5,25 @@
 <h3 align="center">Lowly wage earners from China</h3>
 
 ### 🌈 Github Stats:
-<a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@chirophy?theme=rule34"></a><br>
-<img src = "https://github-readme-stats.vercel.app/api?username=chirophy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=chirophy&theme=dracula">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chirophy&theme=monokai">
+<a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@chirophy?theme=rule34"></a><br>  
+<img src = "https://github-readme-stats.vercel.app/api?username=chirophy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">  
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=chirophy&theme=dracula">  
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chirophy&theme=monokai">  
 
 ### 📫 How to reach me:
-- :octocat: [github@xiaorang](https://github.com/chirophy)
-- :email: [gmail@xiaorang](mailto:chirophy@gmail.com)
+- :octocat: [github@chirophy](https://github.com/chirophy)
+- :email: [gmail@chirophy](mailto:chirophy@gmail.com)
 
 
 | :pencil2: |
 | --- |
-| [Blogs](https://chirophy.github.io/) |  
+| [Blogs](https://wiki.chirophy.online/) |  
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🍭 Write Articles on [Yueque](https://www.yuque.com/chirophy/java) with [github](https://github.com/chirophy/)
+1. 🍭 修改自己的 [wiki](https://wiki.chirophy.online/) with [github](https://github.com/chirophy/)
 2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
+3. 🎮 Play [Elden Ring](https://wiki.chirophy.online/docs/Game/Elden-Ring/introduce)
 <!--END_SECTION:activity-->
 
 <!--
