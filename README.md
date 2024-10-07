@@ -17,13 +17,13 @@
 
 | :pencil2: |
 | --- |
-| [Blogs](https://wiki.chirophy.online/) |  
+| [Blogs](https://chirophy.online/) |  
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🍭 修改自己的 [wiki](https://wiki.chirophy.online/) with [github](https://github.com/chirophy/)
+1. 🍭 修改自己的 [wiki](https://chirophy.online/) with [github](https://github.com/chirophy/)
 2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
-3. 🎮 Play [Elden Ring](https://wiki.chirophy.online/docs/Game/Elden-Ring/introduce)
+3. 🎮 Play Elden Ring
 <!--END_SECTION:activity-->
 
 <!--
